@@ -1,5 +1,9 @@
 # E-Commerce Sales & Customer Analytics (MySQL)
 
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL](https://img.shields.io/badge/SQL-Advanced_Queries-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 SQL analysis of an online retail store's sales and customers using MySQL.
 
 **Dataset**: Normalized sample inspired by the UCI Online Retail dataset  
@@ -159,3 +163,11 @@ CTEs for breaking multi-step aggregations into readable pieces, and views/stored
 for packaging logic a BI tool or application could call directly. Also learned to sanity-check
 a synthetic dataset before writing queries against it — filtering to `status = 'delivered'`
 only mattered once the data had more than one status value to filter on.
+
+---
+
+## 👤 Author
+- **Rohith Chandran E**
+- **GitHub**: [@rohithce-hub](https://github.com/rohithce-hub)
+- **Role**: Data Analyst / Business Intelligence Engineer
+
